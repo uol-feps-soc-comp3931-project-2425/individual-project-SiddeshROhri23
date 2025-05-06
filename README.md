@@ -54,7 +54,9 @@ Additionally, a full evaluation harness (under `tests/`) computes precision/reca
 
 ---
 
-## Prerequisites
+---
+
+## ⚙️ Prerequisites
 
 - **Python 3.8+**  
 - **Git**  
@@ -63,12 +65,12 @@ Additionally, a full evaluation harness (under `tests/`) computes precision/reca
 
 ---
 
-## Installation
+## 🛠 Installation
 
 ```bash
 # Clone the repo
-git clone git@github.com:<your-user>/<your-repo>.git
-cd <your-repo>
+git clone git@github.com:uol-feps-soc-comp3931-project-2425/individual-project-SiddeshROhri23.git
+cd individual-project-SiddeshROhri23
 
 # Create & activate a virtual environment
 python3 -m venv .venv
