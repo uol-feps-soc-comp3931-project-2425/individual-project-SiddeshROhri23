@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+trafilatura
+duckduckgo-search
+requests
+langchain-ollama
+langchain-core
+markdown
+numpy
+scikit-learn
+rouge
+sentence-transformers
