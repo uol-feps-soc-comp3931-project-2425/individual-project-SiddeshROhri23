@@ -1,0 +1,350 @@
+[
+  {
+    "url": "https://www.imdb.com/title/tt15222080/reviews/?rating=1",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/reviews/?rating=2",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/reviews/?rating=3",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/reviews/?rating=4",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/reviews/?rating=5",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/reviews/?rating=6",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/reviews/?rating=7",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/reviews/?rating=8",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/reviews/?rating=9",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/reviews/?rating=10",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/reviews?p=1",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/reviews?p=2",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/reviews?p=3",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/reviews?p=4",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/reviews?p=5",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/reviews?p=6",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/reviews?p=7",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/reviews?p=8",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/reviews?p=9",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/reviews?p=10",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": true,
+    "matches_content_type": true
+
+  },
+
+  {
+    "url": "https://www.imdb.com/title/tt0944947/reviews/?rating=6",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt0944947/reviews/?rating=7",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt0944947/reviews/?rating=8",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt0944947/reviews/?rating=9",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt0944947/reviews/?rating=10",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+
+  {
+    "url": "https://myanimelist.net/anime/20/Naruto/reviews",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/16498/Attack_on_Titan/reviews",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+
+  {
+    "url": "https://www.imdb.com/title/tt0111161/reviews/?rating=10",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt0111161/reviews/?rating=8",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt1375666/reviews/?rating=9",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt1375666/reviews/?rating=7",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch/reviews?p=1",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch/reviews?p=2",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/9253/Steins_Gate/reviews?p=1",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+  },
+  {
+    "url": "https://myanimelist.net/anime/9253/Steins_Gate/reviews?p=2",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/19815/Your_Name/reviews?p=1",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/19815/Your_Name/reviews?p=2",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": true
+
+  },
+
+  {
+    "url": "https://www.imdb.com/title/tt15222080/episodes",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/fullcredits",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/mediaindex",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+
+  },
+
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/stats",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/characters",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/credits",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+
+  },
+
+  {
+    "url": "https://www.imdb.com/title/tt15222080/plotsummary",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+  },
+  {
+    "url": "https://www.imdb.com/title/tt15222080/trivia",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/news",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/forum",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/userrecs",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+
+  },
+  {
+    "url": "https://myanimelist.net/anime/49596/Blue_Lock/pictures",
+    "query": "Could you give me the reviews of Blue Lock in a well formatted table which should include the name of the reviewer, the review by the reviewer",
+    "is_relevant": false,
+    "matches_content_type": false
+
+  }
+]
